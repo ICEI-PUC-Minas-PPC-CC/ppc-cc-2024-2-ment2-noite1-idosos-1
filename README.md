@@ -1,19 +1,19 @@
-# TÍTULO DO PROJETO
+# Proteção dos idosos contra golpes cibernéticos
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: MENTORING II`
+`2024 - Semestre 02`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Ana Carolina
+- Gustavo Vilas Boas
+- João Gustavo
+- Leonardo
 
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin
 
 # Documentação
 
