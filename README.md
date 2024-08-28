@@ -9,7 +9,7 @@
 - Ana Carolina
 - Gustavo Vilas Boas
 - João Gustavo
-- Leonardo
+- Gabriel
 
 ## Professor
 
