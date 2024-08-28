@@ -10,6 +10,7 @@
 - Gustavo Vilas Boas
 - João Gustavo
 - Gabriel
+- Larissa
 
 ## Professor
 
