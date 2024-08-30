@@ -14,12 +14,14 @@ O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, qu
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+Auxiliar idosos e pessoas com dificuldades no meio digital a não caírem em golpes que estão sendo aplicados pelos meios digitais.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Com esse objetivo, temos alguns **objetivos específicos** que almejamos chegar ao final do nosso projeto. São eles:
+
+* Reforçar a segurança cibernética do público alvo;
+* Reduzir prejuízos causados por golpes cibernéticos;
+* Notar um golpe cibernético com facilidade;
+* Apresentar formas sobre como agir em meio a um golpe cibernético.
 
 ## Justificativa
 
