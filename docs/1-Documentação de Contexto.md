@@ -4,6 +4,11 @@ Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, 
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
+. Quais são os impactos das oficinas educativas na prevenção de golpes virtuais entre os idosos?
+. Existe uma relação entre a participação em oficinas digitais e a capacidade dos idosos em identificar fake news?
+. Quais os fatores que influenciam a eficácia de oficinas de conscientização contra fake news para idosos?
+. Quais os efeitos das oficinas de cibersegurança sobre a autoconfiança dos idosos em ambientes virtuais?
+. Quais são as semelhanças e diferenças entre a percepção de golpes virtuais e fake news entre idosos antes e após participar de oficinas educativas?
 
 O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
