@@ -30,12 +30,17 @@ Com esse objetivo, temos alguns **objetivos específicos** que almejamos chegar 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+Com o crescimento acelerado da digitalização tivemos inúmeros benefícios, mas também ampliou o espaço para crimes cibernéticos, que afetam especialmente populações mais vulneráveis, como idosos e pessoas com dificuldades no uso de tecnologias. A escolha de trabalhar com o tema de segurança cibernética para esse público se justifica por
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+1. Vulnerabilidade do Público-Alvo
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+2. Crescente Incidência de Golpes Cibernéticos
+
+3. Impactos Financeiros e Emocionais
+
+Os objetivos específicos foram escolhidos para abordar diretamente os principais desafios enfrentados por idosos e pessoas com dificuldades no uso de tecnologias.
+Para isso devemos reforçar a segurança cibernética do público-alvo, reduzir prejuízos causados por golpes cibernéticos e ajudar notar um golpe cibernético com mais facilidade.
+
 
 ## Público-Alvo
 
