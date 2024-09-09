@@ -11,6 +11,7 @@
 - João Gustavo
 - Gabriel
 - Larissa
+- Luis Alves
 
 ## Professor
 
