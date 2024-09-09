@@ -6,15 +6,16 @@
 
 ## Integrantes
 
-- Ana Carolina
-- Gustavo Vilas Boas
-- João Gustavo
-- Gabriel
-- Larissa
-- Luis Alves
+- [Ana Carolina](https://github.com/anacarolina-peregrino)
+- [Gustavo Vilas Boas](https://github.com/gustavo-vb)
+- [João Gustavo](https://github.com/Jgustavo98)
+- [Gabriel](https://github.com/azengarddee)
+- [Larissa](https://github.com/Larissa-Lima)
+- [Luis Alves](https://github.com/luis-alvess)
 
-## Professor
+## Professores
 
+- João Benedito dos Santos Júnior
 - Luciana de Nardin
 
 # Documentação
