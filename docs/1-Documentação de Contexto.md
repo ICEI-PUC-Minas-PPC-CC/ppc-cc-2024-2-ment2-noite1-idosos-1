@@ -3,19 +3,7 @@
 Com a chegada do Século XXI, o mundo digital tem sido cada vez mais inserido no cotidiano de todos e se tornando cada vez mais essencial para realização de várias atividades, muitas vezes básicas, durante todo o dia. Como esse processo foi extremamente rápido e continua evoluindo, a aplicação de golpes através do mundo cibernético tem procurado pessoas desinformadas, principalmente idosos, e se aproveitando dessa fragilidade para extorquir bens e dados pessoais. Nosso grupo busca mitigar esses eventos, almejando proporcionar uma navegação segura e crítica de modo a diminuir a criminalidade cibernética e proteger bens e dados pessoais.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
-. Quais são os impactos das oficinas educativas na prevenção de golpes virtuais entre os idosos?
-. Existe uma relação entre a participação em oficinas digitais e a capacidade dos idosos em identificar fake news?
-. Quais os fatores que influenciam a eficácia de oficinas de conscientização contra fake news para idosos?
-. Quais os efeitos das oficinas de cibersegurança sobre a autoconfiança dos idosos em ambientes virtuais?
-. Quais são as semelhanças e diferenças entre a percepção de golpes virtuais e fake news entre idosos antes e após participar de oficinas educativas?
-
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Com o avanço acelerado da digitalização, os idosos têm enfrentado dificuldades para acompanhar as inovações tecnológicas, o que os torna alvos fáceis para golpes cibernéticos. Muitos não possuem o conhecimento necessário para identificar tentativas de fraude, phishing ou fake news, e, por isso, acabam sendo vítimas de crimes que comprometem sua segurança financeira e a privacidade de seus dados pessoais.
 
 ## Objetivos
 
