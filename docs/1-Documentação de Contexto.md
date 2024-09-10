@@ -1,6 +1,6 @@
 # Introdução
 
-Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Com a chegada do Século XXI, o mundo digital tem sido cada vez mais inserido no cotidiano de todos e se tornando cada vez mais essencial para realização de várias atividades, muitas vezes básicas, durante todo o dia. Como esse processo foi extremamente rápido e continua evoluindo, a aplicação de golpes através do mundo cibernético tem procurado pessoas desinformadas, principalmente idosos, e se aproveitando dessa fragilidade para extorquir bens e dados pessoais. Nosso grupo busca mitigar esses eventos, almejando proporcionar uma navegação segura e crítica de modo a diminuir a criminalidade cibernética e proteger bens e dados pessoais.
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
