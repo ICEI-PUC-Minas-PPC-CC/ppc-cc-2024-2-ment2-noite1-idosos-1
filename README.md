@@ -7,9 +7,9 @@
 ## Integrantes
 
 - [Ana Carolina](https://github.com/anacarolina-peregrino)
+- [Gabriel](https://github.com/azengarddee)
 - [Gustavo Vilas Boas](https://github.com/gustavo-vb)
 - [João Gustavo](https://github.com/Jgustavo98)
-- [Gabriel](https://github.com/azengarddee)
 - [Larissa](https://github.com/Larissa-Lima)
 - [Luis Alves](https://github.com/luis-alvess)
 
