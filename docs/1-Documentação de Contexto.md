@@ -32,4 +32,4 @@ Para isso devemos reforçar a segurança cibernética do público-alvo, reduzir 
 
 ## Público-Alvo
 
-"Em 2022, o Brasil registrou uma alta de 57,4% na população com 65 anos ou mais frente ao ano de 2010." _(GOVERNO DO BRASIL, 2023)_. Com esse aumento da população idosa, nosso trabalho de extensão procura ajudar esse grupo, do qual vêm crescendo bastante, a se proteger da desinformação e de outros eventos causados pela mesma, como os golpes cibernéticos.
+"Em 2022, o Brasil registrou uma alta de 57,4% na população com 65 anos ou mais frente ao ano de 2010." _(GOVERNO DO BRASIL, 2023)_. Com isso, a escolha do público-alvo, composto por idosos acima de 60 anos, em nosso trabalho de extensão ocorreu porque essa faixa etária representa um grupo bastante vulnerável a fraudes e golpes online. Os golpistas costumam direcionar seus esforços a esse grupo, explorando a boa-fé que muitos idosos têm ao interagir no ambiente virtual. À medida que a digitalização avança, a exposição dos idosos a potenciais riscos também cresce, tornando essencial a disseminação de conhecimento preventivo.
