@@ -18,18 +18,17 @@ Com esse objetivo, temos alguns **objetivos específicos** que almejamos chegar 
 
 ## Justificativa
 
-Com o crescimento acelerado da digitalização tivemos inúmeros benefícios, mas também ampliou o espaço para crimes cibernéticos, que afetam especialmente populações mais vulneráveis, como idosos e pessoas com dificuldades no uso de tecnologias. A escolha de trabalhar com o tema de segurança cibernética para esse público se justifica por
+"Brasil está entre as nações mais digitalizadas do mundo" _(VEJA, 2024)_. Com o crescimento acelerado da digitalização, tivemos inúmeros benefícios, mas também ampliou o espaço para crimes cibernéticos, que afetam especialmente populações mais vulneráveis, como idosos e pessoas com dificuldades no uso de tecnologias. Vale lembrar que, a população idosa está cada vez maior ("Em 2022, o Brasil registrou uma alta de 57,4% na população com 65 anos ou mais frente ao ano de 2010." _GOVERNO DO BRASIL, 2023_) e a escolha de trabalhar com o tema de segurança cibernética para esse público se justifica por:
 
-1. Vulnerabilidade do Público-Alvo
+* Vulnerabilidade do Público-Alvo
 
-2. Crescente Incidência de Golpes Cibernéticos
+* Crescente Incidência de Golpes Cibernéticos
 
-3. Impactos Financeiros e Emocionais
+* Impactos Financeiros e Emocionais
 
 Os objetivos específicos foram escolhidos para abordar diretamente os principais desafios enfrentados por idosos e pessoas com dificuldades no uso de tecnologias.
 Para isso devemos reforçar a segurança cibernética do público-alvo, reduzir prejuízos causados por golpes cibernéticos e ajudar notar um golpe cibernético com mais facilidade.
 
 
 ## Público-Alvo
-
-"Em 2022, o Brasil registrou uma alta de 57,4% na população com 65 anos ou mais frente ao ano de 2010." _(GOVERNO DO BRASIL, 2023)_. Por isso, escolhemos como público-alvo do nosso trabalho de extensão os idosos com mais de 60 anos, já que essa faixa etária é particularmente vulnerável a fraudes e golpes online. Os golpistas frequentemente direcionam seus esforços a esse grupo, aproveitando-se da boa-fé que muitos demonstram ao interagir no ambiente virtual. Com o avanço da digitalização, a exposição dos idosos a riscos aumenta, tornando fundamental a disseminação de conhecimento preventivo.
+Por ser uma grande fatia da população, escolhemos como público-alvo do nosso trabalho de extensão, prioritariamente, idosos com 60 anos ou mais, visto que essa parcela da população é particularmente vulnerável a fraudes e golpes online. Os golpistas frequentemente direcionam seus esforços a esse grupo, aproveitando-se da boa-fé que muitos demonstram ao interagir no ambiente virtual, tornando-se importante a disseminação do conhecimento preventivo.
