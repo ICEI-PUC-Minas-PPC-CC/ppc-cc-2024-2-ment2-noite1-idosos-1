@@ -11,7 +11,7 @@
 - [Gustavo Vilas Boas Pereira](https://github.com/gustavo-vb)
 - [João Gustavo Pires da Costa](https://github.com/Jgustavo98)
 - [Larissa Conceição de Lima](https://github.com/Larissa-Lima)
-- [Luis Alves](https://github.com/luis-alvess)
+- [Luís Otávio Alves da Silva](https://github.com/luis-alvess)
 
 ## Professores
 
