@@ -6,10 +6,10 @@
 
 ## Integrantes
 
-- [Ana Carolina](https://github.com/anacarolina-peregrino)
-- [Gabriel](https://github.com/azengarddee)
+- [Ana Carolina~Peregrino Rocha](https://github.com/anacarolina-peregrino)
+- [Gabriel de Araújo Bernardes](https://github.com/azengarddee)
 - [Gustavo Vilas Boas](https://github.com/gustavo-vb)
-- [João Gustavo](https://github.com/Jgustavo98)
+- [João Gustavo Pires da Costa](https://github.com/Jgustavo98)
 - [Larissa](https://github.com/Larissa-Lima)
 - [Luis Alves](https://github.com/luis-alvess)
 
