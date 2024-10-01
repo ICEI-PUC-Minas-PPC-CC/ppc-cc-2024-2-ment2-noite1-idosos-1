@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- [Ana Carolina~Peregrino Rocha](https://github.com/anacarolina-peregrino)
+- [Ana Carolina Peregrino Rocha](https://github.com/anacarolina-peregrino)
 - [Gabriel de Araújo Bernardes](https://github.com/azengarddee)
 - [Gustavo Vilas Boas](https://github.com/gustavo-vb)
 - [João Gustavo Pires da Costa](https://github.com/Jgustavo98)
