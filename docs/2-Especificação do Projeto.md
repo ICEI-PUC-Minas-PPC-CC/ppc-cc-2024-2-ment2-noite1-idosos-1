@@ -6,7 +6,7 @@ Aqui, está listada toda a especificação do projeto que será realizado.
 
 |**Luciana Guimarães**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/img/cida-guimaraes.png" width="200" height="200"/>|**Idade:** 30 anos. **Naturalidade:** Carmo do Rio Claro - Minas Gerais. **Ocupação:** engenheira       |**Atribuições:** trabalha com engenheira civil em uma grande empresa
+<img src=docs/img/camilafiaes.png="200" height="200"/>|**Idade:** 30 anos. **Naturalidade:** Carmo do Rio Claro - Minas Gerais. **Ocupação:** engenheira       |**Atribuições:** trabalha com engenheira civil em uma grande empresa
 |**Motivações:** Quer ajudar a sua mãe a não cair em golpes pelo Whatsapp.  |**Frustações:** Dificuldade em falar com sua mãe já que as duas não moram perto uma da outra. E tem medo de que sua mãe possa cair em golpes fraudulentos, sabendo que sua mãe é leiga e possa acreditar em qualquer coisa |**Hobbies, história:** Gosta de passear com seus filhos aos finais de semana, e sempre que dá, vai visitar a sua mãe. Luciana, ama receber os cachecóis de presente da sua mãr no inverno.
 
 
