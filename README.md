@@ -8,7 +8,7 @@
 
 - [Ana Carolina Peregrino Rocha](https://github.com/anacarolina-peregrino)
 - [Gabriel de Araújo Bernardes](https://github.com/azengarddee)
-- [Gustavo Vilas Boas](https://github.com/gustavo-vb)
+- [Gustavo Vilas Boas Pereira](https://github.com/gustavo-vb)
 - [João Gustavo Pires da Costa](https://github.com/Jgustavo98)
 - [Larissa](https://github.com/Larissa-Lima)
 - [Luis Alves](https://github.com/luis-alvess)
