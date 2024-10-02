@@ -6,4 +6,4 @@ GOVERNO DO BRASIL. Censo 2022: número de idosos na população do país cresceu
 
 VEJA. Brasil está entre as nações mais digitalizadas do mundo, mostra pesquisa. VEJA, 3 jun. 2022. Disponível em: [https://veja.abril.com.br/tecnologia/brasil-esta-entre-as-nacoes-mais-digitalizadas-do-mundo-mostra-pesquisa](https://veja.abril.com.br/tecnologia/brasil-esta-entre-as-nacoes-mais-digitalizadas-do-mundo-mostra-pesquisa). Acesso em: 10 set. 2024.
 
-AGÊNCIA BRASIL. Golpes pela internet aumentam contra a população idosa. Rádio Agência Nacional, 2024. Disponível em: https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2024-06/golpes-pela-internet-aumentam-contra-populacao-idosa. Acesso em: 01 out. 2024.
+AGÊNCIA BRASIL. Golpes pela internet aumentam contra a população idosa. Rádio Agência Nacional, 2024. Disponível em: [https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2024-06/golpes-pela-internet-aumentam-contra-populacao-idosa](https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2024-06/golpes-pela-internet-aumentam-contra-populacao-idosa). Acesso em: 01 out. 2024.
