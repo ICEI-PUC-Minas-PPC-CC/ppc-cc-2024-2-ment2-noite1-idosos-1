@@ -4,17 +4,17 @@ Aqui, está listada toda a especificação do projeto que será realizado.
 
 ## Personas
 
-|**Luciana Guimarães**|           |                             | 
-|-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/img/Luciana_Guimarães.jpg" width="200" height="200"/> |**Idade:** 30 anos. **Naturalidade:** Carmo do Rio Claro - Minas Gerais. **Ocupação:** engenheira       |**Atribuições:** trabalha com engenheira civil em uma grande empresa
-|**Motivações:** Quer ajudar a sua mãe a não cair em golpes pelo Whatsapp.  |**Frustações:** Dificuldade em falar com sua mãe já que as duas não moram perto uma da outra. E tem medo de que sua mãe possa cair em golpes fraudulentos, sabendo que sua mãe é leiga e possa acreditar em qualquer coisa |**Hobbies, história:** Gosta de passear com seus filhos aos finais de semana, e sempre que dá, vai visitar a sua mãe. Luciana, ama receber os cachecóis de presente da sua mãe no inverno.
-
 
 |**Cida Guimarães**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/img/cida-guimaraes.png" width="200" height="200"/>|**Idade:** 65 anos. **Naturalidade:** Carmo do Rio Claro - Minas Gerais. **Ocupação:** Aposentada.       |**Atribuições:** Foi secretária por 39 anos, prestando serviços para uma empresa de laticínios. 
 |**Motivações:** Quer ter ajuda para se comunicar com os seus familiares através da internet, sem cair em golpes .  |**Frustações:** Dificuldade em conseguir auxílio com seu celular, visto que sua residência é longe de onde seus filhos e netos estão, sendo assim, tem dificuldades até mesmo para conversar com seus familiares. Além disso, sofre de muitas dores nas costas.  |**Hobbies, história:** Gosta muito de tricotar e fazer cachecóis para enviar aos seus netos e filhos no inverno. Infelizmente, não o consegue de forma contínua, pois por ter muitos anos de trabalho como secretária, passou muito tempo em postura inadequada na cadeira e hoje sofre com dores nas costas. Tem de ficar em repouso a maioria do tempo, impossibilitando muitas de suas ações do cotidiano.
 
+
+|**Luciana Guimarães**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/img/Luciana_Guimarães.jpg" width="200" height="200"/> |**Idade:** 30 anos. **Naturalidade:** Carmo do Rio Claro - Minas Gerais. **Ocupação:** engenheira       |**Atribuições:** trabalha com engenheira civil em uma grande empresa
+|**Motivações:** Quer ajudar a sua mãe a não cair em golpes pelo Whatsapp.  |**Frustações:** Dificuldade em falar com sua mãe já que as duas não moram perto uma da outra. E tem medo de que sua mãe possa cair em golpes fraudulentos, sabendo que sua mãe é leiga e possa acreditar em qualquer coisa |**Hobbies, história:** Gosta de passear com seus filhos aos finais de semana, e sempre que dá, vai visitar a sua mãe. Luciana, ama receber os cachecóis de presente da sua mãe no inverno.
 
 
 |**Lourdes Aparecida**|           |                             | 
@@ -34,18 +34,23 @@ Aqui, está listada toda a especificação do projeto que será realizado.
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
 
+
 | EU COMO | QUERO/PRECISO | PARA |
 |--------------------|------------------------------------|----------------------------------------|
 |Cida Guimarães | Suporte remoto para dúvidas no celular | Ficar conectada com meus familiares. |
 |Cida Guimarães | Dicas fáceis de segurança digital | Ajudar meu marido a evitar golpes. |
 
 
+| EU COMO | QUERO/PRECISO | PARA |
+|--------------------|------------------------------------|----------------------------------------|
+|Luciana Guimarães| Criar um guia simples de segurança digital | Ensinar minha mãe a se proteger contra golpes no WhatsApp. |
+|Luciana Guimarães| Estabelecer um canal de comunicação fácil  | Manter contato constante com minha mãe, mesmo à distância |
+
 
 | EU COMO | QUERO/PRECISO | PARA |
 |--------------------|------------------------------------|----------------------------------------|
 |Lourdes Aparecida | Aprender a identificar golpes online | Proteger minhas finanças e dados pessoais. |
 |Lourdes Aparecida | Receber notificações de segurança digital | Manter-me atualizada sobre novas ameaças. |
-
 
 
 | EU COMO | QUERO/PRECISO | PARA |
