@@ -26,8 +26,7 @@ Com esse objetivo, temos alguns **objetivos específicos** que almejamos chegar 
 
 * Impactos Financeiros e Emocionais
 
-Os objetivos específicos foram escolhidos para abordar diretamente os principais desafios enfrentados por idosos e pessoas com dificuldades no uso de tecnologias.
-Para isso devemos reforçar a segurança cibernética do público-alvo, reduzir prejuízos causados por golpes cibernéticos e ajudar notar um golpe cibernético com mais facilidade.
+Além disso, a ouvidoria nacional de direitos humanos registrou, só em 2024, mais de 21 mil denúncias de violações contra idosos (AGÊNCIA BRASIL, 2024) e, assim, os objetivos específicos foram escolhidos para abordar diretamente os principais desafios enfrentados por idosos e pessoas com dificuldades no uso de tecnologias. Para tal, devemos reforçar a segurança cibernética do público-alvo, reduzir prejuízos causados por golpes cibernéticos e ajudar notar um golpe cibernético com mais facilidade.
 
 
 ## Público-Alvo
