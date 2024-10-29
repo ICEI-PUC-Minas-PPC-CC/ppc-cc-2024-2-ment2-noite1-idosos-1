@@ -10,4 +10,4 @@
   Juntamente aos materiais que serão usados para apresentação da oficina, foram desenvolvidos os materiais para divulgação da mesma. Veja:
 
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/files/Anuncio.png" width="500" height="600"/>
-Imagem original em formato A3.
+- Imagem original em formato A3, pode ser acessada clicando [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/files/Apresentacao-MENTORINGII.pptx).
