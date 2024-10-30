@@ -17,6 +17,7 @@
 Imagem de anúncio em formato A3, feito por [Gabriel de Araújo Bernardes](https://github.com/azengarddee).
 
 <i><b>Criação de conta no instagram:</b></i>
+
 Feito por: [Larissa Conceição de Lima](https://github.com/Larissa-Lima)
 
 Identidade visual é essencial para que as pessoas associem os posts. Veja logo criada para nossa equipe:
