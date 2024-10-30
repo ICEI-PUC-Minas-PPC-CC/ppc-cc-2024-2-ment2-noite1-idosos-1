@@ -9,4 +9,4 @@
   Juntamente aos materiais que serão usados para apresentação da oficina, foram desenvolvidos os materiais para divulgação da mesma. Veja:
 
 ![Anúncio em A3](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/files/Anuncio.png)
-Imagem em formato A3, feito por [Gabriel de Araújo Bernardes](https://github.com/azengarddee).
+Imagem de anúncio em formato A3, feito por [Gabriel de Araújo Bernardes](https://github.com/azengarddee).
