@@ -16,7 +16,8 @@
 ![Anúncio em A3](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/files/Anuncio.png)
 Imagem de anúncio em formato A3, feito por [Gabriel de Araújo Bernardes](https://github.com/azengarddee).
 
-Criação de conta no instagram:
+<i><b>Criação de conta no instagram:</b></i>
+Feito por: [Larissa Conceição de Lima](https://github.com/Larissa-Lima)
 
 Identidade visual é essencial para que as pessoas associem os posts. Veja logo criada para nossa equipe:
 
