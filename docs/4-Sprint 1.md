@@ -24,8 +24,8 @@ Identidade visual é essencial para que as pessoas associem os posts. Veja logo 
 
 Post de divulgação:
 
-![Post](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/files/Post-divulgação.jpeg)
+![Post](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/files/Post%20-%20divulga%C3%A7%C3%A3o.jpeg)
 
 Instagram:
 
-![Logo](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/files/Instagram-divulgação.jpeg)
+![Logo](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/files/Instagram%20-%20divulga%C3%A7%C3%A3o.jpeg)
