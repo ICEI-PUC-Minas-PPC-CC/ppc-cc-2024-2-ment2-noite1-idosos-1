@@ -4,6 +4,11 @@
 
   - Os <i><b>slides</b></i> podem ser acessados para download clicando [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/files/Apresentacao-MENTORINGII.pptx).
 
+  - A preparação dos <i><b>slides</b></i> foi feita em conjunto com os participantes:<br>
+  -> [Ana Carolina Peregrino Rocha](https://github.com/anacarolina-peregrino);<br>
+  -> [Gustavo Vilas Boas Pereira](https://github.com/gustavo-vb);<br>
+  -> [João Gustavo Pires da Costa](https://github.com/Jgustavo98).<br>
+
 # Materiais de divulgação
 
   Juntamente aos materiais que serão usados para apresentação da oficina, foram desenvolvidos os materiais para divulgação da mesma. Veja:
