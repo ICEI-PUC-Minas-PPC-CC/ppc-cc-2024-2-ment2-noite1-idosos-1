@@ -1,6 +1,6 @@
 # Objetivos de Desenvolvimento Sustentável
 
-Na análise feita pelo grupo na página oficinal das [NAÇÕES UNIDAS](https://brasil.un.org/pt-br/sdgs), identificamos que os seguintes objetivos e sub-objetivos se enquandram com nossa atividade extensionista:
+Na análise feita pelo grupo na página oficial das [NAÇÕES UNIDAS](https://brasil.un.org/pt-br/sdgs), identificamos que os seguintes objetivos e sub-objetivos se enquandram com nossa atividade extensionista:
 
 ## ODS 4: Educação de Qualidade
 A educação não é apenas sobre aprender conteúdos acadêmicos; é sobre dar significado à vida, especialmente para os idosos que enfrentam o desafio da exclusão digital. Ensinar segurança digital a essa faixa etária não só os capacita tecnicamente, mas também reforça sua autoestima, permitindo que se sintam parte de uma sociedade cada vez mais conectada e menos vulneráveis a fraudes. Esse empoderamento emocional é tão importante quanto o aprendizado técnico.
