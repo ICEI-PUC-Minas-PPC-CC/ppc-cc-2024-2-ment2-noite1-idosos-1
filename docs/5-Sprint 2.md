@@ -16,3 +16,9 @@ Justificativa do objetivo: Este objetivo busca reduzir desigualdades entre grupo
 
 ### -- 10.2: Promover a inclusão social, econômica e política de todas as pessoas, independentemente de idade ou status: 
 A oficina reduz a exclusão digital, um dos principais desafios enfrentados por idosos, promovendo a inclusão tecnológica dessa população​.
+
+### -- 11.7: Proporcionar acesso universal a espaços seguros e inclusivos, especialmente para idosos. A oficina cria um ambiente digital acessível e seguro, protegendo idosos contra riscos e fraudes online.
+Justificativa do onjetivo: Garante espaços seguros e inclusivos para todos, com foco nos idosos. A oficina proporciona um ambiente digital acessível, capacitando-os para navegar com segurança e se proteger de riscos e fraudes online.
+
+### -- 16.10: Assegurar o acesso público à informação e proteger as liberdades fundamentais. O trabalho equipa idosos com ferramentas para identificar golpes, protegendo sua segurança digital e autonomia.
+Justificativa do objetivo: esse objetivo tende a assegurar o acesso à informação e proteger liberdades fundamentais, com foco na segurança digital dos idosos. O trabalho mencionado equipa essa população com ferramentas para reconhecer golpes, promovendo sua autonomia e proteção contra ameaças online.
