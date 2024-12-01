@@ -24,3 +24,22 @@ Justificativa do onjetivo: Garante espaços seguros e inclusivos para todos, com
 # ODS 16: Paz, Justiça e Instituições Eficazes
 ### -- 16.10: Assegurar o acesso público à informação e proteger as liberdades fundamentais. O trabalho equipa idosos com ferramentas para identificar golpes, protegendo sua segurança digital e autonomia.
 Justificativa do objetivo: esse objetivo tende a assegurar o acesso à informação e proteger liberdades fundamentais, com foco na segurança digital dos idosos. O trabalho mencionado equipa essa população com ferramentas para reconhecer golpes, promovendo sua autonomia e proteção contra ameaças online.
+
+# Divulgação da oficina pela imprensa
+A oficina contou com a imprensa para que a realização da mesma chegasse ao público alvo. A execução dessa divulgação foi feita pela TV POÇOS, onde foi re-transmitida para vários veículos de imprensa, como <b>Telefatos</b> e <b>Bom dia Poços</b> do dia 21/11 até 26/11. A matéria que foi apresentada no <b>Bom dia Poços</b> pode ser acessada através do <i>Youtube</i> no cronômetro 24:08 clicando [AQUI](https://www.youtube.com/live/CiS4hDqev-A?si=kN_rL6NWAFaFwjwZ&t=1448).
+
+Imagem da reportagem:
+![Reportagem](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/img/materia.png)
+
+# Realização da oficina
+A oficina foi realizada no dia 28/11 das 14hs às 16hs. Abaixo, está a lista de inscrições:
+
+![Ficha](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/img/presença.png)
+
+Poucos participantes puderam estar na oficina, mas os que estiveram lá, confirmaram que a oficina foi de grande utilidade. Abaixo segue as fotos da realização da oficina:
+
+![Apresentação](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/img/apresentação.jpg)
+
+No fim, todos gostaram muito. Tivemos várias histórias e muitas experiências foram trocadas. De fato, todos aprenderam, inclusive nós.
+
+![Todos juntos](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos-1/blob/main/docs/img/todos-juntos.jpg)
